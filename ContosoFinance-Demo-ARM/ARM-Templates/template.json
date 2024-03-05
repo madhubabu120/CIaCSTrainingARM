@@ -58,7 +58,7 @@
 
     "databaseName": {
       "type": "string",
-      "defaultValue": "Konduriciacstrainingdb",
+      "defaultValue": "konduriciacstrainingdb",
       "metadata": {
         "description": "Select name for database"
       }
